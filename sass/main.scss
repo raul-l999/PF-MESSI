@@ -88,7 +88,7 @@ main {
   
     //Biografia
     .sectionBio {
-      padding: 10px;
+      padding: 20px;
       font-size: 15px;
     }
 
@@ -96,7 +96,7 @@ main {
     //Logros
     .mainLog,
     .mainRec {
-      padding: 10px;
+      padding: 20px;
       font-size: 15px;
     }
   
@@ -133,7 +133,7 @@ main {
     //Inicio
     .mainInicio {
       @include medidas (100%, 100%);
-      background-image: url(../imagenes/messiarg.webp);
+      background-image: url(../imagenes/fondo-tablet.webp);
       background-repeat: no-repeat;
       background-position: center center;
       background-size: cover;
@@ -149,14 +149,14 @@ main {
   
     //Biografia
     .sectionBio {
-      padding: 10px;
+      padding: 25px;
       font-size: 15px;
     }
   
     //Logros
     .mainLog,
     .mainRec {
-      padding: 10px;
+      padding: 25px;
       font-size: 15px;
     }
   
